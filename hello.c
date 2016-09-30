@@ -7,7 +7,8 @@ void main()
 	printf("The value of i is: %d\n", i);
 	
 	printf("Is the commit recorded");
-
+        
+        printf("yay");
 
 
 }
